@@ -79,6 +79,7 @@
 }
 .task #delete:hover {
   background-color: red;
+  
   cursor: pointer;
 }
 .task #complete:hover {
